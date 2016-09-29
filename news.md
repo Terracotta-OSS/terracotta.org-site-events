@@ -2,7 +2,7 @@
 layout: events_page
 title: News & Events
 visible_title: "News"
-active_sub_menu_id: ehc_mnu_events_news
+active_sub_menu_id: shared_mnu_events_news
 ---
 
 #### 2015.05.07 - [SDTimes - Software AG upgrades Terracotta in-memory data management open-source offerings](http://sdtimes.com/software-ag-upgrades-terracotta-in-memory-data-management-open-source-offerings/#ixzz3lNUGIcp2){:target="_blank"}
