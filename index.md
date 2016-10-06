@@ -9,14 +9,14 @@ active_sub_menu_id: shared_mnu_events_events
 ## Upcoming Conferences & Events
 Meet our team and join our sessions at the following conferences and meetups.
 
-### Distributed Systems Meet-up Group : Sept 24, 2016; 10:00 AM - 1:00 PM : Bangalore, India
+### Distributed Systems Meet-up Group : Oct 22, 2016; 10:00 AM - 1:00 PM : Bangalore, India
 
-Join us at Bangalore-Distributed-Systems-Meetup on Meetup.com
+Join us at [Bangalore-Distributed-Systems-Meetup](http://www.meetup.com/Bangalore-Distributed-Systems-Meetup/) on Meetup.com
 
 #### This months's AGENDA -
 
-- "Virtual Synchrony In Practice" By: Ramesh Kavanappillil, Principal Architect, Terracotta R&D
-- "Distributed Caching With Ehcache3"  By: Ehcache Team, Terracotta R&D
+- "Docker and Java" By: Anthony Dahanne, Sr. Software Engineer, Terracotta R&D
+- CFP Open - Looking for another speaker!
 - Organizing future meet-ups : call for topics and volunteer speakers
 
 #### Venue -
@@ -44,6 +44,18 @@ Detailed schedule to be posted here soon.
 ___
 
 ## Recent Events
+
+### Distributed Systems Meet-up Group : Sept 24, 2016; 10:00 AM - 1:00 PM : Bangalore, India
+
+Join us at Bangalore-Distributed-Systems-Meetup on Meetup.com
+
+#### This months's AGENDA -
+
+- "Virtual Synchrony In Practice" By: Ramesh Kavanappillil, Principal Architect, Terracotta R&D
+- "Distributed Caching With Ehcache3"  By: Ehcache Team, Terracotta R&D
+- Organizing future meet-ups : call for topics and volunteer speakers
+
+
 
 ### JavaOne : Sept 19, 2016 : San Francisco, California, USA
 
