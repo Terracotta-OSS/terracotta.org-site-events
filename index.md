@@ -6,6 +6,22 @@ permalink: /events/
 active_sub_menu_id: shared_mnu_events_events
 ---
 
+## Upcoming Conferences & Events
+Meet our team and join our sessions at the following conferences and meetups.
+
+### Devoxx US : March 21-23 2017 : San Jose, California
+
+- [Ehcache out of his element](http://cfp.devoxx.us/2017/talk/HRV-2461/Ehcache_out_of_his_Element), by Louis Jacomet
+- [Modules are coming ... to libraries??](http://cfp.devoxx.us/2017/talk/RQS-5940/Modules_are_coming_..._to_libraries%3F%3F), by Louis Jacomet
+
+
+### DevNexus : February 22-24 2017 : Atlanta, Georgia
+
+- [Caching in applications still matters !](https://devnexus.com/s/devnexus2017/presentations/17264), by [Anthony Dahanne](https://devnexus.com/s/speakers/17261)
+- [Lambdas and generics survival guide](https://devnexus.com/s/devnexus2017/presentations/17669), by [Henri Tremblay](https://devnexus.com/s/speakers/17666)
+
+___
+
 ## Recent Events
 
 ### Confoo Vancouver : December 7th 2016
