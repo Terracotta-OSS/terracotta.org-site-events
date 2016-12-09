@@ -6,16 +6,37 @@ permalink: /events/
 active_sub_menu_id: shared_mnu_events_events
 ---
 
-## Upcoming Conferences & Events
-Meet our team and join our sessions at the following conferences and meetups.
+## Recent Events
+
+### Confoo Vancouver : December 7th, 2016
+
+- [Caching in applications still matters !](https://confoo.ca/en/yvr2016/session/caching-in-applications-still-matters), by [Anthony Dahanne](https://confoo.ca/en/speaker/anthony-dahanne)
+
+### Victoria JUG : December 6th, 2016
+
+- [Caching in applications still matters !](https://www.eventbrite.ca/e/anthony-dahanne-xmatters-registration-29901608516), by [Anthony Dahanne](http://blog.dahanne.net)
+
+### Montreal JUG : November 24th, 2016
+
+- [Pourquoi le caching est toujours si important ?](http://www.montreal-jug.org/meetup/caching/), by [Anthony Dahanne](http://blog.dahanne.net)
+
+### Devoxx Belgium : November 7-11, 2016 : Antwerp, Belgium
+
+The Terracotta / Software AG team will be out in full force.  Join us at our booth, see demos, get technical assistance, and win prizes.
+
+Also, don't forget to catch talks given by the Ehcache / Terracotta / Software AG crew!
+
+#### Ehcache and Terracotta Server talks at Devoxx Belgium 2016
+
+- [Ehcache out of his element](http://cfp.devoxx.be/2016/talk/AUX-3854/Ehcache_out_of_his_Element), by [Louis Jacomet](http://cfp.devoxx.be/2016/speaker/louis_jacomet)
+- [Terracotta Ehcache: Simpler, faster, distributed](http://cfp.devoxx.be/2016/talk/EMH-3283/Terracotta_Ehcache:_simpler,_faster,_distributed), by [Anthony Dahanne](http://cfp.devoxx.be/2016/speaker/anthony_dahanne)
+
 
 ### Distributed Systems Meet-up Group : Oct 22, 2016; 10:00 AM - 1:00 PM : Bangalore, India
 
 Join us at [Bangalore-Distributed-Systems-Meetup](http://www.meetup.com/Bangalore-Distributed-Systems-Meetup/) on Meetup.com
 
-#### This months's AGENDA -
-
-- "Docker and Java" By: Anthony Dahanne, Sr. Software Engineer, Terracotta R&D
+- ["Docker and Java"](http://fr.slideshare.net/anthonydahanne/docker-and-java-at-montral-jug) By: [Anthony Dahanne](http://blog.dahanne.net), Sr. Software Engineer, Terracotta R&D
 - CFP Open - Looking for another speaker!
 - Organizing future meet-ups : call for topics and volunteer speakers
 
@@ -27,29 +48,9 @@ Embassy Tech Village
 Devarabisanahalli
 Bangalore – 560103
 
-### Devoxx Morocco : November 1 (approx) : Casablanca, Morocco
-
-Louis Jacomet will be making a presentation on adding scale and performance to applicaitons.  
-
-More details of time and topic will be posted here soon.
-
-### Devoxx Belgium : November 7-11 : Antwerp, Belgium
-
-The Terracotta / Software AG team will be out in full force.  Join us at our booth, see demos, get technical assistance, and win prizes.
-
-Also, don't forget to catch talks given by the Ehcache / Terracotta / Software AG crew!
-
-Detailed schedule to be posted here soon.
-
-___
-
-## Recent Events
-
 ### Distributed Systems Meet-up Group : Sept 24, 2016; 10:00 AM - 1:00 PM : Bangalore, India
 
-Join us at Bangalore-Distributed-Systems-Meetup on Meetup.com
-
-#### This months's AGENDA -
+Join us at [Bangalore-Distributed-Systems-Meetup](http://www.meetup.com/Bangalore-Distributed-Systems-Meetup/) on Meetup.com
 
 - "Virtual Synchrony In Practice" By: Ramesh Kavanappillil, Principal Architect, Terracotta R&D
 - "Distributed Caching With Ehcache3"  By: Ehcache Team, Terracotta R&D
