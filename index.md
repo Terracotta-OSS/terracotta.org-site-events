@@ -6,6 +6,42 @@ permalink: /events/
 active_sub_menu_id: shared_mnu_events_events
 ---
 
+
+## Upcoming Conferences & Events
+Meet our team and join our sessions at the following conferences and meetups.
+
+### Distributed Systems Meet-up Group : Saturday February 11, 2017; 10:00 AM - 1:00 PM : Bangalore, India
+
+Join us at [Bangalore-Distributed-Systems-Meetup](http://www.meetup.com/Bangalore-Distributed-Systems-Meetup/) on Meetup.com
+
+[Agenda this month](https://www.meetup.com/Bangalore-Distributed-Systems-Meetup/events/237010309/):
+
+- Go distributed with Terracotta and cache terabytes of data
+- Generics and lambdas from the ground up
+- And more...
+
+Also, volunteer your distributed systems knowledge - speak at lead discussion at one of our future meet-ups!
+
+#### Venue -
+
+Software AG Bangalore Technologies Pvt. Ltd.,
+Embassy Tech Village
+5th Floor, 2A East Tower
+Devarabisanahalli
+Bangalore – 560103
+
+### DevNexus : February 22-24 2017 : Atlanta, Georgia
+- [Caching in applications still matters !](https://devnexus.com/s/devnexus2017/presentations/17264), by [Anthony Dahanne](https://devnexus.com/s/speakers/17261)
+- [Lambdas and generics survival guide](https://devnexus.com/s/devnexus2017/presentations/17669), by [Henri Tremblay](https://devnexus.com/s/speakers/17666)
+
+### Devoxx US : March 21-23 2017 : San Jose, California
+- [Ehcache out of his element](http://cfp.devoxx.us/2017/talk/HRV-2461/Ehcache_out_of_his_Element), by Louis Jacomet
+- [Modules are coming ... to libraries??](http://cfp.devoxx.us/2017/talk/RQS-5940/Modules_are_coming_..._to_libraries%3F%3F), by Louis Jacomet
+
+
+---
+
+
 ## Recent Events
 
 ### Confoo Vancouver : December 7th, 2016
@@ -40,13 +76,7 @@ Join us at [Bangalore-Distributed-Systems-Meetup](http://www.meetup.com/Bangalor
 - CFP Open - Looking for another speaker!
 - Organizing future meet-ups : call for topics and volunteer speakers
 
-#### Venue -
 
-Software AG Bangalore Technologies Pvt. Ltd.,
-Embassy Tech Village
-5th Floor, 2A East Tower
-Devarabisanahalli
-Bangalore – 560103
 
 ### Distributed Systems Meet-up Group : Sept 24, 2016; 10:00 AM - 1:00 PM : Bangalore, India
 
@@ -55,7 +85,6 @@ Join us at [Bangalore-Distributed-Systems-Meetup](http://www.meetup.com/Bangalor
 - "Virtual Synchrony In Practice" By: Ramesh Kavanappillil, Principal Architect, Terracotta R&D
 - "Distributed Caching With Ehcache3"  By: Ehcache Team, Terracotta R&D
 - Organizing future meet-ups : call for topics and volunteer speakers
-
 
 
 ### JavaOne : Sept 19, 2016 : San Francisco, California, USA
